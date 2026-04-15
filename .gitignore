@@ -3,3 +3,5 @@ obj/
 .vs/
 TestResults/
 artifacts/
+.dotnet/
+.nuget/
