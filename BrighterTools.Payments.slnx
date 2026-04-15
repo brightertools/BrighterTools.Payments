@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BrighterTools.Payments.Stripe/BrighterTools.Payments.Stripe.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BrighterTools.Payments.Tests/BrighterTools.Payments.Tests.csproj" />
+  </Folder>
+</Solution>
